@@ -1,0 +1,2 @@
+# Finger-Tremor-Project
+This project consists of designing and building a finger tremor detector that will count the number of times a finger crosses an optical beam. The device will count up to 15 crossings and have a reset button. There will be 4 LEDs that will display the count as a 4-bit number. The device will consist of an Arduino Uno in an enclosure that will not slide on a surface. The enclosure will have access for power connection, the LEDs, and power and reset buttons. The device will not be affected by ambient light.
